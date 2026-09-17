@@ -1,0 +1,7 @@
+# 操作系统 / 编辑器产生的文件，不需要上传到仓库
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log
